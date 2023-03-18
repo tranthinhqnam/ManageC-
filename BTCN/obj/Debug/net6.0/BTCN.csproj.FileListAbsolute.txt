@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\BTCN\BTCN\obj\Debug\net6.0\BTCN.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\BTCN\BTCN\obj\Debug\net6.0\BTCN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\BTCN\BTCN\obj\Debug\net6.0\BTCN.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\BTCN\BTCN\obj\Debug\net6.0\BTCN.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\BTCN\BTCN\obj\Debug\net6.0\BTCN.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BTCN\BTCN\bin\Debug\net6.0\BTCN.exe
+C:\Users\LENOVO\source\repos\BTCN\BTCN\bin\Debug\net6.0\BTCN.deps.json
+C:\Users\LENOVO\source\repos\BTCN\BTCN\bin\Debug\net6.0\BTCN.runtimeconfig.json
+C:\Users\LENOVO\source\repos\BTCN\BTCN\bin\Debug\net6.0\BTCN.dll
+C:\Users\LENOVO\source\repos\BTCN\BTCN\bin\Debug\net6.0\BTCN.pdb
+C:\Users\LENOVO\source\repos\BTCN\BTCN\obj\Debug\net6.0\BTCN.dll
+C:\Users\LENOVO\source\repos\BTCN\BTCN\obj\Debug\net6.0\refint\BTCN.dll
+C:\Users\LENOVO\source\repos\BTCN\BTCN\obj\Debug\net6.0\BTCN.pdb
+C:\Users\LENOVO\source\repos\BTCN\BTCN\obj\Debug\net6.0\BTCN.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\BTCN\BTCN\obj\Debug\net6.0\ref\BTCN.dll
